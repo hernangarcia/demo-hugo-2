@@ -1,5 +1,5 @@
 title = "Mi Querido Blog"
-baseURL = ""
+baseURL = "https://master.dya5e7ntaj591.amplifyapp.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
